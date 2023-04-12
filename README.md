@@ -2,29 +2,38 @@
 
 ### Background
 
-Engaging, understanding and empowering different perspectives and varying visions is key to building collaborative, productive and resilient communities over the long term. As scale increases, so does the challenge of maintaining coherance, alignment and knowledge transfer, which in turn leads to challenges with advancing or even sustaining collective intelligence. This leads to upper limits on the effectiveness of a group, the stagnation of once energetic and worthwhile initatives and the inevitable decay of community culture. 
+Engaging, understanding and empowering different perspectives and varying visions is key to building collaborative, productive and resilient communities over the long term. As scale increases, so does the challenge of maintaining coherance, alignment and knowledge transfer, which in turn leads to challenges with advancing or even sustaining collective intelligence. 
 
-### Coordination systems for culture
+This inevitably leads to upper limits on the alignment and the effectiveness of a group, the stagnation of once energetic and worthwhile initatives and the inevitable decay of community culture. 
+
+### Society as culture 
 
 Throughout history, social groups have kept records of debts and credits through oral, symbolic, pictoral or numeric ledgers, that have in turn formed the operating system for culture. 
 
 > Culture is an umbrella term which encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, and habits of the individuals in these groups. [Wikipedia](https://en.wikipedia.org/wiki/Culture) 
 
-For the last 200 years, the company has been the primary organisation function for culture, however companies are inventions of the nation state and are therefore tied to geographic boundaries. Their effectiveness is not in dispute, but their ability to maintain coherence, alignment and knowledge transfer at ever greater scales is. 
+For the last 200 years, the company alongside [limited liability](https://en.wikipedia.org/wiki/Limited_liability), has been the primary engine room for culture, however companies are inventions of the nation state and are therefore tied to geographic boundaries. In a networked world, their ability to create and extract value has never been more potent and has led to vast data monopolies and the subsequent centralisation of wealth and power.
+
+When the current attention based incentives of social media are matched to tokens, there is an even greater potential for virality, whilst recent advances in AI now allow _anyone_, to fake _anything_, ensuring our passage into an ever weirder world, where what is _real_ is in ever greater doubt. 
 
 ### Blockchain based organisations
 
 Blockchain based systems are the most recent addition to humankinds attempts to scale collective intelligence - aka creativity. 
 
-At the core of these systems are _triple entry accounting systems_ that incentivise participants to append, verify and timestamp a shared ledger.  
+At the core of these systems are _triple entry accounting systems_ that incentivise participants to append, verify and timestamp a shared ledger - essentially giving them a state they can all agree to be true at any point in time, without needing to trust the other parties honesty.  
    
-Network security guarantees are the core value proposition of public blockchains, however this primary (and necessary) design focus on _security_ leads to downstream issues when it comes to coordinating contributors within on-chain based organisations (aka DAOs) and the ability to advance collective intelligence. 
+Network security guarantees are the core value proposition of public blockchains, however this primary (and necessary) design focus leads to downstream issues when it comes to coordinating contributors within on-chain based organisations (aka DAOs) and the ability to advance collective intelligence. 
+
+### Challenges facing DAOs
 
 Fungible treasuries denominated in the native token of a network appear wealthy in fiat terms ([$24 billion and counting](https://deepdao.io/organizations)), however as projects are funded, teams liquidate tokens into working capital which creates natural sell pressure. 
 
 Without sustained _network adoption_ and _meaningful value accrual_, networks will be repriced, slowly, then suddenly. 
 
 A chicken and egg situation results - the networks **must spend** to drive adoption, but must also contend with a **gradually diminishing token price** in the absence of new demand drivers for their _core value proposition_. 
+
+- Identity 
+- Value accrual 
 
 ### Kusama's security-as-a-service   
 
